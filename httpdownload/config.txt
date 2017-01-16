@@ -1,0 +1,5 @@
+IP:http://52.221.248.114:5050/logs/
+filesize1:500K
+count1:1
+filesize2:1M
+count2:2
